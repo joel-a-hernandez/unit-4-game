@@ -1,0 +1,50 @@
+body {
+    font-family: fantasy;
+    color: yellow;
+}
+
+.backgroundImage {
+    background: url(../images/spaceImage.jpg)
+}
+
+.heading-container {
+    text-align: center;
+    background: black;
+    border-bottom: solid 2px yellow;
+    padding-top: 20px;
+}
+.header {
+   font-size: -webkit-xxx-large;
+}
+
+.row-1 {
+    text-align: center;
+    padding-top: 20px;
+}
+.row-2 {
+    text-align: center;
+    border: solid 1px;
+    padding-top: 5px;
+    background: black;
+}
+.row-3 {
+    text-align: center;
+    border: solid 1px;
+    padding-top: 5px;
+    background: black;
+}
+.crystals-container {
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 5%
+}
+
+.crystals {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+
